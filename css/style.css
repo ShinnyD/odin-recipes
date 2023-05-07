@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+.header {
+    color: #ffff55;
+    background-color: aquamarine;
+    font-size: 50px;
+    font-weight: 700;
+    width: 500px;
+    
+}
