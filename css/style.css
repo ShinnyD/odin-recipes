@@ -9,3 +9,10 @@ body {
     width: 500px;
     
 }
+.card{
+    width: 500px;
+    padding: 16px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: azure;
+}
